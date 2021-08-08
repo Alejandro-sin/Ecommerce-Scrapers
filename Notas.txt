@@ -2,4 +2,19 @@ https://www.tripadvisor.co/ShowUserReviews-g150780-d10247661-r541263254-Green_Ma
 https://www.citymarket.com.mx/comprasbiencitymarket/
 http://botanaslily.com/
 https://www.panaderiabistro702.mx/collections/alternativa-saludable
-https://yema.mx/c/despensa/pan-de-caja-tostadas-y-tortillas
+https://yema.mx/c/despensa
+
+
+
+Datos a extraer:
+
+nombre marca
+nombre producto
+numero de calificaciones
+precio
+acerca_de
+key_features
+cantidad
+rating (Diccionario para las 5 estrellas)
+comentarios del producto
+
